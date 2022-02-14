@@ -1,6 +1,6 @@
 v1.1.1(20220211)
 https://www.baidu.com/
 https://tieba.baidu.com/
-abcdasdas
-sdasdasd
-sadasdas
+小公告测试
+这是一条小公告咕咕咕
+咕咕咕

@@ -1,7 +1,7 @@
 v1.1
-更新下载地址/https://www.baidu.com/
-玩家社群地址/https://tieba.baidu.com/
-更新日志地址/https://cdn.jsdelivr.net/gh/GenesisAN/MyFileCloud/KK_UpdateLog
+更新下载地址|https://www.baidu.com/
+玩家社群地址|https://tieba.baidu.com/
+更新日志地址|https://cdn.jsdelivr.net/gh/GenesisAN/MyFileCloud/KK_UpdateLog
 #####小公告#####
 小公告测试
 这是一条小公告咕咕咕

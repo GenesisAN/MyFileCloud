@@ -1,6 +1,6 @@
 v1.6
-[]更新下载地址|https://icscn.neocities.org/UpdateLog/
-[]玩家社群地址|https://tieba.baidu.com/
+[]游戏更新下载地址|https://icscn.neocities.org/UpdateLog/
+[]玩家的社群地址|https://tieba.baidu.com/
 []更新日志地址|https://cdn.jsdelivr.net/gh/GenesisAN/MyFileCloud/KK_UpdateLog
 []#####小公告#####
 []=dsadasdasdasdsad

@@ -3,8 +3,4 @@ v1.1.1(20220211)
 []玩家的社群地址|https://tieba.baidu.com/
 []更新日志地址|https://cdn.jsdelivr.net/gh/GenesisAN/MyFileCloud/KK_UpdateLog
 []#####小公告#####
-[]=dsadasdasdasdsad
-sadsadasdsadsadas
-dasdasda
-dasdasdas
-sdasdasdas
+[]=暂无公告
